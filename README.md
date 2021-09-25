@@ -26,10 +26,6 @@ Study codes: [Ladder, Javascript, Typescript, HTML, CSS, Python, Java]
 Goals: "Specialization in CLP"
 ```
   
-<h2>Mais sobre mim</h2>
-  
-  :aquarius: Aquariana raiz<p> :green_heart: Pessoas curiosas e inquietas são meus tipos de pessoas<p> :dizzy: Super independente<p> :apple: Mentalidade iniciante (**aberta a aprender**)<p> :vulcan_salute: “Vida longa e próspera!” 
-  
   ##
   
   <div> 
