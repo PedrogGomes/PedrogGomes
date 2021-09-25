@@ -1,4 +1,4 @@
-## ***<h1>Olá, sou Pedro seja bem vindo!*** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px">
+## ***<h1>Olá, sou Pedro seja bem vindo!*** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px">
   
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="565" height="355" />
   
