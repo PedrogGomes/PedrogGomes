@@ -23,7 +23,7 @@
 ```javascript
 Study codes: [Ladder, Javascript, Typescript, HTML, CSS, Python, Java]
   
-Goals: "Specialization in CLP"
+Goals: "Specialization in CLP "
 ```
   
   ##
